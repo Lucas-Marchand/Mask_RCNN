@@ -1,0 +1,1 @@
+python teabag.py train --dataset=../../datasets/teabag --weights=coco
